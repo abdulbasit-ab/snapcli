@@ -6,8 +6,7 @@ setup(
     url = 'https://github.com/abdulbasit-ab/snapcli',
     description = '',
     packages = ['processSAR'],
-#     install_requires = [
-#         # Github Private Repository
-#         'snapcli @ https://github.com/abdulbasit-ab/snapcli.git'
-#     ]
+    install_requires = [
+        'snapcli @ https://github.com/abdulbasit-ab/snapcli.git'
+    ]
 )
