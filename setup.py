@@ -1,12 +1,9 @@
-from setuptools import setup, find_packages
-
 setup(
-    name = 'snapcli',
-    version = '0.1.0',
-    url = 'https://github.com/abdulbasit-ab/snapcli',
-    description = '',
-    packages = ['processSAR'],
-    install_requires = [
-        'snapcli @ https://github.com/abdulbasit-ab/snapcli.git'
-    ]
+   name='processSAR',
+   version='1.0',
+   description='SNAP Command Line Tutorial',
+   author='Abdul Basit',
+   author_email='abdulbasit@itu.edu.pk',
+   packages=['processSAR'],
+   install_requires=['wheel', 'bar', 'greek'], #external packages as dependencies
 )
