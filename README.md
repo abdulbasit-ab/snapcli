@@ -9,4 +9,6 @@ any folder.
 
 ### Installation
 
+```
 !pip install git+https://github.com/abdulbasit-ab/snapcli.git
+```
