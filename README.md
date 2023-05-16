@@ -6,3 +6,7 @@ your SNAP installation.
 
 The installation should have added the SNAP/bin folder to the system path in order to call the gpt from
 any folder. 
+
+### Installation
+
+!pip install git+https://github.com/abdulbasit-ab/snapcli.git
