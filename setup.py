@@ -1,3 +1,4 @@
+from setuptools import setup
 setup(
    name='snapcli',
    version='1.0',
